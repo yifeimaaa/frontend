@@ -1,0 +1,16 @@
+body {
+  background-color: aqua
+}
+
+p {
+  font-size: xs-small;
+  color: beige;
+}
+
+.green {
+  color: green;
+}
+
+.green a {
+  color: green;
+}
